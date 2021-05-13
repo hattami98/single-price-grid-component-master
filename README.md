@@ -25,13 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-[desktop](/screenshot/desktop.jpg)
-[mobile](/screenshot/mobile.jpg)
+[desktop](screenshot/desktop.jpg)
+[mobile](screenshot/mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://single-price-grid-component-master-three-pi.vercel.app/)
 
 ## My process
 
